@@ -1,1 +1,1 @@
-# gltf-collections
+# GLTF Collections
